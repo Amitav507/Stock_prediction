@@ -19,3 +19,5 @@ Determine the series is stationery using Augmented Dickey Fuller test
 Do a train test split
 
 Apply the models and find the best fit for data.
+
+*Data-set and code are supplied as part of Learnbay's Master's program and this is a hands-on representation of same https://www.learnbay.co/*
